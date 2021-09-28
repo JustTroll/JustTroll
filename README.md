@@ -30,4 +30,5 @@
   <a href="https://www.linkedin.com/in/adriel-de-assis-023998221/">
   <img align= "center" alt="JustTroll-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
-
+ 
+![Snake animation](https://github.com/JustTroll/JustTroll/blob/output/github-contribution-grid-snake.svg)
