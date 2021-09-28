@@ -25,6 +25,7 @@
 <div>
   <a href="https://api.whatsapp.com/send?phone=55054999502846&text=Texto%20aqui">
   <img align= "center" alt="JustTroll-Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href = "mailto:contatojusttroll@gmail.com">
   <img align= "center" alt="JustTroll-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://www.linkedin.com/in/adriel-de-assis-023998221/">
   <img align= "center" alt="JustTroll-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
