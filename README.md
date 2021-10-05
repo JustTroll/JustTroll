@@ -1,6 +1,6 @@
 ## Opa, tudo bem!? Eu sou o Adriel
 
--Atualmente estou aprendendo CSS3<br>
+-Atualmente estou aprendendo JavaScript<br>
 -Estou procurando ajudar no que for do meu alcance<br>
 -Estou procurando ajuda para saber como se ganha dinheiro<br>
 -Fato engraçado: Assisto animes, Sou T.I, Jogo lol e tenho uma namorada!<br>
