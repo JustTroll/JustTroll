@@ -28,7 +28,7 @@
   <img align= "center" alt="JustTroll-Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href = "mailto:contatojusttroll@gmail.com">
   <img align= "center" alt="JustTroll-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adriel-de-assis-023998221/">
+  <a href="https://www.linkedin.com/in/adriel-de-assis-648ba3251/">
   <img align= "center" alt="JustTroll-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
   ![Snake animation](https://github.com/JustTroll/JustTroll/blob/output/github-contribution-grid-snake.svg)
